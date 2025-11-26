@@ -10,7 +10,7 @@ I'm a final-year Computer Engineering student at the University of Beira Interio
 ## 🛠️ Skills & Tools
 - Languages: Python, C++, C#, Java etc...
 - Frameworks/Tools: React & Nest.js is my favorite stack 
-- Others: Algorithms, Calculus & Linear Algebra, Functional Programming (OCAML) 
+- Others: Algorithms, Calculus & Linear Algebra, Functional Programming (OCAML), Cloud Computing (AWS)
 
 ## 📫 Get in touch
 - LinkedIn: [Tomás Simões](https://www.linkedin.com/in/tomas-simoes/)]  
