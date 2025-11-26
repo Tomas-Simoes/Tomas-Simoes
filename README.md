@@ -1,7 +1,6 @@
 # Hi there, I'm Simões 👋
 
-I'm a final-year Computer Engineering student at the University of Beira Interior.  
-Passionate about programming, game development, and exploring the possibilities of quantum computing.  
+I'm a final-year Computer Engineering student at the University of Beira Interior, where I am pursuing a learning path with a particular emphasis on software development and quantum computing.
 
 ## 🚀 Interests
 - Programming & software development  
