@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Simões 👋
 
-<!--
-**Tomas-Simoes/Tomas-Simoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Computer Engineering student at the University of Beira Interior.  
+Passionate about programming, game development, and exploring the possibilities of quantum computing.  
 
-Here are some ideas to get you started:
+## 🚀 Interests
+- Programming & software development  
+- Game development
+- Quantum computing 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- Languages: Python, C++, C#, Java etc...
+- Frameworks/Tools: React & Nest.js is my favorite stack 
+- Others: Algorithms, Calculus & Linear Algebra, Functional Programming (OCAML) 
+
+## 📫 Get in touch
+- LinkedIn: [Tomás Simões](https://www.linkedin.com/in/tomas-simoes/)]  
