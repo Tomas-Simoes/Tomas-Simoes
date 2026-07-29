@@ -4,13 +4,6 @@ I'm a final-year **Computer Engineering** student at the University of Beira Int
 
 ---
 
-## 🚀 Interests
-- Software development  
-- Game development  
-- Quantum computing  
-
----
-
 ## 🛠️ Skills & Tools
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
