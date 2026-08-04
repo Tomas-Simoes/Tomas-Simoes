@@ -1,6 +1,6 @@
 # Hi there, I'm Tomás Simões 👋
 
-I'm a final-year **Computer Engineering** student at the University of Beira Interior, where I am pursuing a learning path with a particular emphasis on **software development** and **quantum computing**.  
+I'm a **Computer Engineering** graduate @ the University of Beira Interior, where I am pursuing a learning path with a particular emphasis on **software development** and **quantum computing**.  
 
 ---
 
@@ -17,6 +17,8 @@ I'm a final-year **Computer Engineering** student at the University of Beira Int
 ---
 
 ## 🚀 Featured Projects
+**🔹 [Personal Portfolio](https://tomas-simoes.vercel.app/)**  
+Interactive personal portfolio inspired by the classic interfaces of the PSP and PS2.
 
 **🔹 [The Chamber](https://enterthechamber.vercel.app) — Hybrid Quantum-Classical Scheduling Testbed**  
 Research prototype for operating-system process-to-core assignment using QUBO modeling solved by QAOA.
