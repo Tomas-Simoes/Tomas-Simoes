@@ -1,6 +1,6 @@
 # Hi there, I'm Tomás Simões 👋
 
-I'm a **Computer Engineering** graduate @ the University of Beira Interior, where I am pursuing a learning path with a particular emphasis on **software development** and **quantum computing**.  
+I'm a **Computer Engineering** graduate @ University of Beira Interior, where I am pursuing a learning path with a particular emphasis on **software development** and **quantum computing**.  
 
 ---
 
